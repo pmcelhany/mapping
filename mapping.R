@@ -8,7 +8,7 @@ library(geosphere)
 library(rnaturalearth)
 
 
-setwd("/Users/paul.mcelhany/Downloads/map shape files")
+setwd("/Users/paul.mcelhany/Documents/Github Projects/mapping/map shape files")
 #data sets from http://www.naturalearthdata.com/downloads/10m-physical-vectors/
 land <- st_read("ne_10m_land/ne_10m_land.shp")
 smallIslands <- st_read("ne_10m_minor_islands/ne_10m_minor_islands.shp")

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Ecoregions of the Pacific Northwest</title>
+                <onlink>https://fortress.wa.gov/dnr/arcgisext/weba_ext_prod1/rest/services/OpenData/WADNR_Natural_Heritage_Open_Data/MapServer/0</onlink>
+                <onlink>https://fortress.wa.gov/dnr/adminsa/gisdata/datadownload/ecoregions_pnw.gdb.zip</onlink>
+                <onlink>https://fortress.wa.gov/dnr/adminsa/gisdata/metadata/ecoregions_pnw.txt</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Ecoregions reflect broad ecological patterns occurring on the landscape. In general, each ecoregion has a distinctive composition and pattern of plant and animal species distribution. Abiotic factors, such as climate, land form, soil, and hydrology are important in the development of ecosystems, and thus help define ecoregions. Within an individual ecoregion, the ecological relationships between species and their physical environment are essentially similar.Washington state contains portions of nine ecoregions, each of which is described here: http://www.landscope.org/washington/natural_geography/eco regions/. These descriptions are intended to provide the reader with a snapshot of each ecoregion, and the statements regarding biodiversity highlights and conservation needs are not meant to be comprehensive.The ecoregoins were created by the EPA. These are considered level III ecoregions. For more information: https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states.</abstract>
+            <purpose>Ecoregions of the Pacific Northwest</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>ecoregions</themekey>
+                <themekey>Biota</themekey>
+                <themekey>WADNR</themekey>
+                <themekey>DNR</themekey>
+                <themekey>WNHP</themekey>
+                <themekey>WA</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>Washington Natural Heritage ProgramData Use Guidelines and CitationThe Washington Natural Heritage Program (WNHP) provides data on endangered, threatened,and sensitive plant and nonvascular species and rare and high-quality ecosystems in the state ofWashington. These data do not represent a complete inventory of the state and do not eliminatethe need for site specific surveys. Field verification of the absence or presence of sensitivespecies and biological communities will always be the responsibility of users of Natural Heritagedata.These data are available for non-commercial conservation, educational, and research use, butshould not be repackaged or redistributed. Should you be asked by individuals outside yourorganization for the type of data that we provide, please refer them to WNHP.Appropriate acknowledgment of the Washington Natural Heritage Program should be made inany reports or other products derived from these data using the following format:Citation: Washington Natural Heritage Program. . Washington Natural HeritageProgram, Washington Department of Natural Resources. Olympia, WA. U.S.A. Availableat https://www.dnr.wa.gov/NHPdata. (Accessed: )for example: Washington Natural Heritage Program. 2018. Washington Natural HeritageProgram, Washington Department of Natural Resources. Olympia, WA. U.S.A. Availableat https://www.dnr.wa.gov/NHPdata. (Accessed: 09/22/2018).Acknowledgement Statement:This information is provided by the Washington Natural Heritage Program(www.wa.dnr.gov/natural-heritage-program), Washington’s primary source ofinformation about rare and endangered species, and threatened ecosystems.Data may be downloaded and altered in format for analytical purposes, however the data shouldstill be referenced using the citation as formatted above. Data should not be used in other webapplications without specific permission.This is a dynamic dataset. WNHP refines, updates and adds data and information daily. As such,the data products will become outdated over time. Interested parties are encouraged to obtain themost current information possible from WNHP, rather than using older datasets.WNHP staff and contractors do not access privately-owned lands without express permissionfrom the landowner. However, the program cannot guarantee that information provided to us byothers was obtained under adherence to this policy.WNHP has no natural resource management or regulatory authority. Products, statements, andservices from WNHP are intended to inform parties as to the state of scientific knowledge aboutcertain natural resources, and to further develop that knowledge. The information is not intendedas natural resource management guidelines or prescriptions or a determination of environmentalimpacts. WNHP recommends consultation with appropriate state, federal, local and tribalresource management agencies and authorities in the area where your project is located.Feedback Request: Sources of Natural Heritage data include museum specimens, published andunpublished scientific literature, field surveys by state and federal agencies and privatecontractors, and reports from knowledgeable individuals. WNHP actively solicits andencourages additions, corrections and updates, new observations or collections, and commentson any of the data we provide; see https://www.dnr.wa.gov/NHPdata for more information.</useconst>
+    </idinfo>
+    <metainfo>
+        <metd>20170414</metd>
+        <metc>
+            <cntinfo>
+                <!--no contact person or organization name available-->
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
